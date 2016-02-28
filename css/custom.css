@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24 Oct, 2015, 12:40:48 PM
+    Author     : Araja Jyothi Babu
+*/
+.price{
+    position:absolute;
+    z-index: 10000;
+    background-color: green;
+    opacity: 0.9;
+    margin: 0px auto;
+    padding:20px;
+    overflow:auto;
+    color: #FFF;
+    border-radius: 20px;
+    right:20px;
+}
+.bg-success{
+    background-color: #0F0;
+}
+#footer{
+    padding: 5px;
+    background-color: #FFF;
+}
+#footer a {
+    padding: 0px 40px;
+}
+#footer p {
+    padding: 5px auto;
+}
+body{
+    background-color: #F5F5F5;
+}
+table, th, td {
+    text-align: center;
+}
+th{
+    font-size: 16px;
+}
+td{
+    font-size:14px;
+}
+#item{
+    height:200px;
+}
+
